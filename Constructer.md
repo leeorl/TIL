@@ -57,15 +57,15 @@ public class Rectangle2 {
 	public static void main(String[] args) {
 	
 		
-		 Rectangle2 rec = new Rectangle2(); // Rectangle 객체 생성
-		 rec.height = 20; // 높이를 20으로 초기화
-                 double area = rec.getArea(); // 면적을 계산하여 area 
+	        Rectangle2 rec = new Rectangle2(); // Rectangle 객체 생성
+	 	rec.height = 20; // 높이를 20으로 초기화
+                double area = rec.getArea(); // 면적을 계산하여 area 
 		 System.out.println(area); // 면적 출력
 		 
 		 
-		  Rectangle2 Rrec = new Rectangle2(5, 10); // 객체 생성. r에 5를 n에 10을 넣어 초기화.
-	      double area1 = Rrec.getArea();
-	      System.out.println(area1);
+         	Rectangle2 Rrec = new Rectangle2(5, 10); // 객체 생성. r에 5를 n에 10을 넣어 초기화.
+		 double area1 = Rrec.getArea();
+	 	System.out.println(area1);
 	 
 	    }
 	
