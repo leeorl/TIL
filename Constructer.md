@@ -2,7 +2,7 @@
 
 title: Constructer
 date: 2021-05-25
-author: 이현곤
+name: 이현곤
 
 ---
 # [ 생성자 개념 및 형태 ] 
