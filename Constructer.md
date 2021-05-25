@@ -21,7 +21,7 @@ name: 이현곤
 * 생성자는 new를 통해 객체를 생성할 때 한번만 호출된다.
 * 생성자는 여러 개 작성(오버로딩) 할 수 있다.
   매개변수의 개수와 타입만 다르다면, 클래스 내의 생성자를 여러 개 둘 수 있다.
-  ex) public Rectangle()  ////  public Rectangle(int r, int n)
+  - 예 ) public Rectangle()   &&   public Rectangle(int r, int n)
       
 > ` 코드 예시 `
 
